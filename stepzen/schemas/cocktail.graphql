@@ -1,0 +1,8 @@
+type Cocktail {
+    id: ID!
+    name: String!
+    instructions: String!
+    ingredients: []
+    measurements: []
+    image: String!
+}
